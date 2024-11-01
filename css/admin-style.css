@@ -1,0 +1,14 @@
+.connect .extension {
+    width: 30%;
+    border: 1px #888 solid;
+    padding: 7px;
+    margin: 5px;
+    float: left;
+    text-align: center;
+}
+.connect h3{
+	text-align: center;
+}
+.connect .button{
+	text-align: center;
+}
